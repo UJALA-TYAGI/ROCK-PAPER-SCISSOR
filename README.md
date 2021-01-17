@@ -1,3 +1,3 @@
 # PYTHON-PROJECTS
-This repository contains all my Python projects. 
+This repository contains simple Python projects. 
 Beginner level projects with easy to implement codes.
